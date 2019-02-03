@@ -1,6 +1,6 @@
 # ThreeJS + WebVR Boilerplate
 
-> Based on https://github.com/joshmarinacci/webxr-experiments/tree/master/boilerplate
+> Like https://github.com/joshmarinacci/webxr-experiments/tree/master/boilerplate + `parcel`
 
 ## How to use this boilerplate
 
